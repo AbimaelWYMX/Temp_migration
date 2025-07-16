@@ -1,0 +1,7 @@
+##Mapping de temperatura switches: 
+
+Ciscos N3K - Corriendo desde webserver /opt/users/ML20100221/temp_python 
+Ciscos N9K - Corriendo desde webserver /opt/users/ML20100221/temp_python 
+Junniper - Corriendo desde webserver /opt/users/ML20100221/temp_python 
+
+Cisco Bay 6 C2 y FAE OFFLINE B21 corriendo en Teton-Prime C3 get_n9k.sh
